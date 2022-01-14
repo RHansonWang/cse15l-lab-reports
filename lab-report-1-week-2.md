@@ -24,12 +24,12 @@
 ![image](4a.png)
 5. Setting an SSH Key
 * Use command "ssh-keygen"
-* Use "scp id_rsa.pub cs15lwi22@ieng6.ucsd.edu:~/.ssh/authorized_key" to copy the file to Server
+* Use "scp directory/id_rsa.pub cs15lwi22@ieng6.ucsd.edu:~/.ssh/authorized_key" to copy the file to Server
 * now password is no longer needed when sch or scp
 ![image](5a.png)
 6. Optimizing Remote Running
-* Write a command in quotes at the end of an ssh command to directly run it. 
-* Use semicolons to run multiple commands on the same line.
+* Write a command in quote marks at the end of an ssh command to directly run it. 
+* Use semicolons to run multiple commands at the same time.
 * Use up arrow to retrieve previous commands.    
 ![image](6a.png)
 ![image](6b.png)
