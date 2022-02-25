@@ -1,18 +1,18 @@
-## Adding tests for MarkdownParse.java
-# 1. Snipplet 1\
+# Adding tests for MarkdownParse.java
+## 1. Snipplet 1\
 ![image](sni1t1.png)\
 ![image](sni1tirun.png)
 ![image](sni1tirun2.png)
-# 2. Snipplet 2\
+## 2. Snipplet 2\
 ![image](sni2t1.png)\
 ![image](sni2tirun.png)
 ![image](sni2tirun2.png)
-# 3. Snipplet 3\
+## 3. Snipplet 3\
 ![image](sni3t1.png)\
 ![image](sni3tirun.png)
 ![image](sni3tirun2.png)
 For the screenshots, the first shown is my implementation, the second is from the code shared with me by Aldrin Cheung. 
-# 4. Answers to question:
+## 4. Answers to question:
 Do you think there is a small (<10 lines) code change that will make your program work for snippet 1 and all related cases that use inline code with backticks? If yes, describe the code change. If not, describe why it would be a more involved change.\
 Ans: Yes. The code should be able to fix the problem within 10 lines. By adding a check before any index is taken in, check that there isn't any backticks in between"[]", the code will exclude the links that are not correctly inputted. \
 Do you think there is a small (<10 lines) code change that will make your program work for snippet 2 and all related cases that nest parentheses, brackets, and escaped brackets? If yes, describe the code change. If not, describe why it would be a more involved change.\
