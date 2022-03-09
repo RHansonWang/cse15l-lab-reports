@@ -1,6 +1,6 @@
 # Adding tests for MarkdownParse.java
-Link to Their Repo: https://github.com/aldrincheung/markdown-parse 
-Link to Our Repo: https://github.com/RHansonWang/markdown-parse 
+Link to Their Repo: [https://github.com/aldrincheung/markdown-parse](https://github.com/aldrincheung/markdown-parse) 
+Link to Our Repo: [https://github.com/RHansonWang/markdown-parse](https://github.com/RHansonWang/markdown-parse)
 ## 1. Snipplet 1
 ### Test: 
 ![image](sni1t1.png)
